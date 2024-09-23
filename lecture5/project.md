@@ -1,0 +1,4 @@
+MCV 
+git
+Laravel 
+BD
